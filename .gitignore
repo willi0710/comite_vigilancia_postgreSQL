@@ -1,0 +1,26 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar base de datos SQLite
+db.sqlite3
+
+# Ignorar archivos compilados
+*.pyc
+__pycache__/
+
+# Archivos de entorno
+.env
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos estáticos generados por collectstatic
+/staticfiles/
+
+# Archivos multimedia subidos (por usuarios o pruebas)
+media/
