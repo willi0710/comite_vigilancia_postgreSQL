@@ -1,8 +1,8 @@
 # Comite de Vigilancia Operacional 
 
-Este proyecto es una aplicación web desarrollada con **Django**, diseñada para facilitar la gestión de información relacionada con el analisis de los delitos de mayor impacto ocurridos en la ciudad de Cali y en la jusrisdiccion de los cuadrantes y estaciones de Policia encargados de velar por la conviviencia y seguridad ciudadana, con el fin de contribuir al diseño de estrategias que permitan reducir los delitos.
+Este proyecto es una aplicación web desarrollada con **Django**, diseñada para facilitar la gestión de información relacionada con el analisis de los delitos de mayor impacto ocurridos en la ciudad de Cali y en la jusrisdiccion de los cuadrantes y estaciones de Policia, con el fin de contribuir al diseño de estrategias que permitan reducir la criminalidad que afecta la Metropolitana.
 
-> ⚠️ Este sistema fue desarrollado por el **Intendente William Gonzalez Onatra**, basado en su experiencia y trayectoria profesional en la **Policía Nacional de Colombia**. Es un ejemplo funcional de cómo la tecnología puede apoyar la toma de decisiones y el diseño de estrategias de seguridad ciudadana.
+> ⚠️ Este sistema fue desarrollado por el **Intendente William Gonzalez Onatra**, basado en su experiencia y trayectoria profesional en la **Policía Nacional de Colombia**. Es un ejemplo funcional de cómo la tecnología puede apoyar la toma de decisiones y el diseño de estrategias para la conviviencia y seguridad ciudadana.
 
 ## Características principales
 
